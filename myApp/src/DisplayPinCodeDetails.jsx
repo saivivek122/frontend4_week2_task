@@ -55,14 +55,3 @@ export default DisplayPinCodeDetails;
 
 
 
-//  <div className="post-details-container">
-//             {item.PostOffice.map((item)=>(
-//                 <div className="post-office-details">
-//                 <p>Name :{item.Name}</p>
-//                 <p>Branch Type :{item.BranchType}</p>
-//                 <p>Delivery Status :{item.DeliveryStatus}</p>
-//                 <p>District :{item.District}</p>
-//                 <p>Division :{item.Division}</p>
-//                 </div>
-//             ))}
-//         </div>
