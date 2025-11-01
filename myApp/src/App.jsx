@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import DisplayPinCodeDetails from "./displayPincodeDetails";
+import DisplayPinCodeDetails from "./DisplayPincodeDetails";
 import "./App.css";
 import { Link, Route, Routes, useLocation, useNavigate } from "react-router-dom";
 
